@@ -1,20 +1,22 @@
-{
-  "Author": "Luna",
-  "Name": "NoSauce",
-  "InternalName": "NoSaucePlugin",
-  "AssemblyVersion": "1.0.0",
-  "Description": "Flags players in your party list who were cleared through a Saus-hosted party.",
-  "Punchline": "Identifies clearees cleared through a Saus-hosted party.",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "fflogs",
-    "parsing",
-    "ultimate",
-    "party"
-  ],
-  "DalamudApiLevel": 15,
-  "RepoUrl": "https://github.com/Luna-Salamanca/no-sauce-releases",
-  "DownloadLinkInstall": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip",
-  "DownloadLinkTesting": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip"
-}
+[
+  {
+    "Author": "Luna",
+    "Name": "NoSauce",
+    "InternalName": "NoSaucePlugin",
+    "AssemblyVersion": "1.0.0",
+    "Description": "Flags players in your party list who were cleared through a Saus-hosted party.",
+    "Punchline": "Identifies clearees cleared through a Saus-hosted party.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "fflogs",
+      "parsing",
+      "ultimate",
+      "party"
+    ],
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Luna-Salamanca/no-sauce-releases",
+    "DownloadLinkInstall": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.0/latest.zip"
+  }
+]
