@@ -4,8 +4,8 @@
     "Name": "NoSauce",
     "InternalName": "NoSaucePlugin",
     "AssemblyVersion": "1.0.0",
-    "Description": "Flags players in your party list who were cleared through a Saus-hosted party.",
-    "Punchline": "Identifies clearees cleared through a Saus-hosted party.",
+    "Description": "no sauce.",
+    "Punchline": "raw sauce.",
     "ApplicableVersion": "any",
     "Tags": [
       "fflogs",
