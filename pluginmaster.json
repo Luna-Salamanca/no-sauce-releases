@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Luna",
+    "Name": "NoSauce",
+    "InternalName": "NoSaucePlugin",
+    "AssemblyVersion": "1.0.3",
+    "Description": "",
+    "Punchline": "",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "fflogs",
+      "parsing",
+      "ultimate",
+      "party"
+    ],
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Luna-Salamanca/no-sauce-releases",
+    "DownloadLinkInstall": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Luna-Salamanca/no-sauce-releases/releases/download/v1.0.3/latest.zip"
+  }
+]
